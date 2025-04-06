@@ -298,6 +298,10 @@ h2{
         flex-direction: column;
         gap: 10px;
     }
+    .footerlogo{
+        width: 30%;
+    
+    }
 }
 
 /* Планшеттерге арналған (min-width: 768px and max-width: 1024px) */
@@ -355,4 +359,5 @@ h2{
         flex-wrap: wrap;
         gap: 20px;
     }
+    
 }
