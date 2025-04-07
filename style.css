@@ -249,6 +249,9 @@ h2{
         flex-direction: column;
         justify-content: center;
     }
+    .WhatsAppLogo{
+        width: 80px;
+    }
     .logo {
         position: relative;
         width: 25%;
