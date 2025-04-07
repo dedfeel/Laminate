@@ -249,17 +249,21 @@ h2{
         flex-direction: column;
         justify-content: center;
     }
+
     .WhatsAppLogo{
         width: 80px;
     }
+
     .logo {
         position: relative;
         width: 25%;
         margin: 10px auto;
     }
+
     .headDiv {
         display: none;
     }
+    
     .headHref, 
     .aHref {
         font-size: 1.5em;
